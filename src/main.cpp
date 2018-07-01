@@ -144,7 +144,7 @@ void testing_function()
     
 	// read testing data
 	vector< vector<float> > testing_data;
-	ifstream inputfile("../new testing data/aaa_2.txt"); // open the file
+	ifstream inputfile("../new testing data/testing.txt"); // open the file
 	int index_1 = 0;
 	string line_1;
     

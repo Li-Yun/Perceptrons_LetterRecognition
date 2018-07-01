@@ -193,8 +193,6 @@ vector<float> Perceptron::execution(char training_data_name[])
         weight_value[i] =  dis(gen);
     }
     
-    
-    
 	// read training data into one matrix
 	ifstream inputfile(training_data_name); // open the file
 	int index_1 = 0;
