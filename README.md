@@ -16,3 +16,13 @@ g++ -std=c++11 main.cpp Perceptron.cpp -o file_name
 For example: 
 
 g++ -std=c++11 main.cpp Perceptron.cpp -o output 
+
+To start training all perceptron classifiers, please use the following command: <br />
+
+./output training
+
+To test new instances in a testing dataset, please run the following command: <br />
+
+./output testing
+
+Have fun!!
