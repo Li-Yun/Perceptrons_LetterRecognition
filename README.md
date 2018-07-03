@@ -1,8 +1,12 @@
 # Perceptrons_LetterRecognition
 
 This program implmented a simple letter-recognition classifier using Perceptron classifiers. <br />
-Basically, the perceptron takes 16 elements as a feature of letters and feeds all training instances <br />
-into the perceptron to train the perceptron classifier. When training the perceptrons, I applied a all-pair <br />
-approach to acheive a multi-class recognntion task. <br />
+Basically, the perceptron takes 16 elements as a feature of letters and feeds all training <br />
+instances into the perceptron to train the perceptron classifier. When training the perceptrons, <br />
+I applied a all-pair approach to acheive a multi-class recognntion task. <br />
 
-Dataset: 
+Dataset: http://archive.ics.uci.edu/ml/datasets/Letter+Recognition <br />
+
+# Usage
+
+To compile the program, please follow this command: <br />
